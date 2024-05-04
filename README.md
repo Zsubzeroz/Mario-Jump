@@ -1,5 +1,5 @@
 # Projeto: Calculadora Simples
-![LabelCalculadora](/assets/.png)
+![Link demonstraçãoo](/assets/mariogame.png)
 
 Para aliviar o estresse, um jogo curto.
 
@@ -20,7 +20,7 @@ Para aliviar o estresse, um jogo curto.
 - Imagens inspiradas no jogo da nitendo.
 
 ## Demonstração
-![Link demonstraçãoo](/assets/.gif)
+![Link demonstraçãoo](/assets/mariogame.gif)
 
 ## Tecnologias utilizadas
 - Java Script
