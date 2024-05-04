@@ -1,4 +1,4 @@
-# Projeto: Calculadora Simples
+# Projeto: Pulando com mario
 ![Link demonstraçãoo](/assets/mariogame.png)
 
 Para aliviar o estresse, um jogo curto.
